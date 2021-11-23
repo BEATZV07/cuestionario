@@ -1,10 +1,20 @@
 12º1
-Alex Vera y Joaquin Ramirez
+Alex Vera y Joaquin Ramirez 
 En tus palabras, ¿Qué es internet?
+El internet es una red para compartir y buscar datos
 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+Rawters y modems
 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+Su estructura es como la de una telaraña, las cuales unas redes se conectan con otras
 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+Por medio del internet, lo cual manda la transmicion a tu telefono, tambien con el uso de codigos, para enviar la informacion a internet y asi te llegue la cancionHT
 Describe los protocolos que existen en internet, en específico HTTP y HTML
+html es para la creacion de paginas web, el cual muchas companias lo usan. http sirve para tener todos los comandos disponibles
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+En ecriptacion aprendi a como hacer paginas web en visual estudio code
+Llaves publicas aprendi a como usarlas, como usar github :)
 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+No acceder a paginas no confuable, tampoco a las paginas registradas como spam
+No buscar cosas sucias que puedan traer virus
 ¿Cómo funciona la búsqueda de google?
+Muy facil, buscas lo que quieras ver, con los codigos que tienen esa informacion la mandan a a las computaciodar de google para relacionar la busqueda con lo que quieras
